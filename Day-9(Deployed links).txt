@@ -1,0 +1,51 @@
+1. Fix the bugs in below snippet
+
+Netlify deployed link: 
+https://gifted-chandrasekhar-6652c4.netlify.app/
+
+2. Try the below one
+
+Netlify deployed link: 
+https://tender-williams-e11dc7.netlify.app
+
+3. Design a contact us form with all fields as required.
+
+Netlify deployed link: 
+https://modest-booth-81aee4.netlify.app/
+
+4. Use certain HTML elements to display the following in a HTML page.
+
+Netlify deployed link: 
+https://relaxed-booth-c6ff7b.netlify.app/
+
+5. Create an element that helps you to open the https://google.com in separate new tab.
+
+ Netlify deployed link:
+https://wonderful-goldberg-93cac1.netlify.app/
+
+6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
+
+ Netlify deployed link:
+https://gifted-booth-a0cfe8.netlify.app
+
+7. Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
+
+Netlify deployed link:
+https://zen-shannon-f4d1df.netlify.app/
+
+8. Use the table tag to design given image Click here.
+
+Netlify deployed link:
+https://frosty-swanson-361598.netlify.app/
+
+
+10. In your, HTML page add the below line and Highlight it without using any CSS.
+"HTML & CSS is awesome"
+
+Netlify deployed link:
+https://laughing-meitner-589f6b.netlify.app
+
+11. Create an HTML page, which should contain all types of input elements.
+
+Netlify deployed link:
+https://quirky-morse-94841c.netlify.app/
